@@ -1,0 +1,1 @@
+用opencv摄像头取帧，ffmpeg编码
