@@ -1,1 +1,1 @@
-用opencv摄像头取帧，ffmpeg编码
+用opencv摄像头取帧，ffmpeg编码,项目没有opencv和ffmpeg库
